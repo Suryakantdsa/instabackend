@@ -1,0 +1,9 @@
+POST :http://localhost:8030/add
+Content-Type: application/application/json
+Accept: application/application/json
+
+{
+    "name":"surya",
+    "location":"bbsr",
+    "description":"im man"
+}
